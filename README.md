@@ -6,7 +6,6 @@ I focus on building **scalable game systems** in Unity, experimenting with **AI*
 ---
 
 ### What I’m Working On
-- **SL Alarm App** – A personal alarm that syncs with Stockholm public transport (**.NET MAUI + SL API**).  
 - **Unity AI Framework** – ECS-based AI for multiplayer games.  
 - **3D Modeling** – Building game-ready assets for personal projects.  
 
