@@ -6,6 +6,7 @@ I focus on building **scalable game systems** in Unity, experimenting with **AI*
 ---
 
 ### What I’m Working On
+- **DevHints** - A collection of **Unity tips, C# tricks**, and useful **developer resources**. 
 - **Unity AI Framework** – ECS-based AI for multiplayer games.  
 - **3D Modeling** – Building game-ready assets for personal projects.  
 
