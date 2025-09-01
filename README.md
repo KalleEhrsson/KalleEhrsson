@@ -56,4 +56,5 @@ I once designed a **board game based on Lethal Company** — and it actually wor
 ---
 
 ### Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/kalleehrsson)  
+- [LinkedIn](https://www.linkedin.com/in/kalleehrsson)
+- [Portfolio](https://kalleehrsson-portfolio.netlify.app/)
