@@ -61,5 +61,5 @@ I once designed a **board game based on Lethal Company** — and it actually wor
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hampe007&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=KalleEhrsson&style=flat-square&color=blue" alt="profile views"/>
 </p>
