@@ -58,3 +58,8 @@ I once designed a **board game based on Lethal Company** — and it actually wor
 ### Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/kalleehrsson)
 - [Portfolio](https://kalleehrsson-portfolio.netlify.app/)
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hampe007&style=flat-square&color=blue" alt="profile views"/>
+</p>
