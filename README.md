@@ -60,8 +60,8 @@ Source is currently private.
 <p>
   <a href="https://github.com/KalleEhrsson?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KalleEhrsson&show_icons=true&hide_rank=true&hide=stars,issues&theme=github_dark&disable_animations=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=KalleEhrsson&show_icons=true&hide_rank=true&hide=stars,issues&theme=default&disable_animations=true" width="420" alt="Kalle's GitHub activity: commits, pull requests, and repositories contributed to">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KalleEhrsson&show_icons=true&hide_rank=true&hide=stars%2Cissues&theme=github_dark&disable_animations=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=KalleEhrsson&show_icons=true&hide_rank=true&hide=stars%2Cissues&theme=default&disable_animations=true" width="420" alt="Kalle's GitHub activity: commits, pull requests, and repositories contributed to">
     </picture>
   </a>
   <a href="https://github.com/KalleEhrsson?tab=repositories">
