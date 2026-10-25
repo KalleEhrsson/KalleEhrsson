@@ -11,19 +11,6 @@ I build gameplay systems in Unity, experiment with game AI, and make 3D assets i
 
 ## Selected projects
 
-### ♟️ [First-Person Chess](https://github.com/KalleEhrsson/ChessGame)
-
-A Unity chess prototype where you walk around the board and switch to a tactical camera to plan moves. Includes legal-move highlighting, king-safety checks, and a local Stockfish integration through UCI. Advanced chess rules and AI turn-loop hardening remain.
-
-**Unity · C# · Stockfish**
-
-### 🥽 VR escape prototype
-
-A Unity 6 VR prototype focused on physical interactions. Current work includes two-handed weapon grabbing, hitscan shooting, and grenades with pin-pull and safety-lever interactions. Body-based storage, climbing, and the escape loop are planned.
-
-**Unity 6 · C# · XR Interaction Toolkit**  
-Source is currently private.
-
 ### 🛠️ [DevHints](https://devhints.netlify.app/)
 
 A searchable reference for Unity, C#, and Blender notes, with filters and curated developer links. Built around a JSON-driven knowledge base.
